@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+.quadrado{
+    height: 250px;
+    width: 250px;
+    background-color: blue;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+}
+p{
+    font-size: 15px;
+    color: white;
+}
+ 
